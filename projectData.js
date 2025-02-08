@@ -17,6 +17,5 @@ const projectsData = [
 const ProjectCategory = [
     { value: "all", label: "All Projects" },
     { value: "web", label: "Web Development" },
-    { value: "mobile", label: "Mobile Apps" },
     { value: "desktop", label: "Desktop Apps" },
 ]
