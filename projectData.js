@@ -1,6 +1,7 @@
 
 const projectsData = [
     {
+        category : "desktop"
         imgSrc: "https://raw.githubusercontent.com/MuhammadAbdullah950/PortFolioData/main/ProofAI/ProofAI.png",
         imgAlt: "ProofAI Project",
         githubLink: "https://github.com/yourusername/proofai",
