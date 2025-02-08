@@ -30,4 +30,3 @@ const ProjectCategory = [
     { value: "mobile", label: "Mobile Apps" },
     { value: "desktop", label: "Desktop Apps" },
 ]
-export  { projectsData ,  ProjectCategory};
