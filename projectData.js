@@ -2,8 +2,8 @@ const projectsData = [
     {
         imgSrc: "https://raw.githubusercontent.com/MuhammadAbdullah950/PortFolioData/main/ProofAI/proofai_up.png",
         imgAlt: "ProofAI Project",
-        videoSrc: ,
-        isVideo = false,
+        videoSrc: null ,
+        isVideo : false,
         githubLink: "https://github.com/MuhammadAbdullah950/ProofAI",
         hostUrl: "https://github.com/MuhammadAbdullah950/ProofAI/releases/tag/v1.0.0-beta",
         title: "ProofAI - Revolutionizing AI Training with Proof of Work and Zero-Layer Blockchain Integration",
