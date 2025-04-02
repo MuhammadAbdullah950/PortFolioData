@@ -18,12 +18,12 @@ const projectsData = [
         category: "desktop",
     },
      {
-        imgSrc: "https://raw.githubusercontent.com/MuhammadAbdullah950/PortFolioData/main/ProofAI/proofai_up.png",
+        imgSrc: "",
         imgAlt: "ProofAI Project",
-        videoSrc: "",
-        isVideo: false,
-        githubLink: "https://github.com/MuhammadAbdullah950/ProofAI",
-        hostUrl: "https://github.com/MuhammadAbdullah950/ProofAI/releases/tag/v1.0.0-beta",
+        videoSrc: "https://vimeo.com/1071829584?share=copy",
+        isVideo: true,
+        githubLink: "",
+        hostUrl: "",
         title: "ProofAI - Revolutionizing AI Training with Proof of Work and Zero-Layer Blockchain Integration",
         description: "An innovative platform integrating blockchain's proof-of-work mechanism with AI model training.",
         techIcon: [
