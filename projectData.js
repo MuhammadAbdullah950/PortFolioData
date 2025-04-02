@@ -31,7 +31,6 @@ const projectsData = [
         techIcon: [
             "https://raw.githubusercontent.com/MuhammadAbdullah950/PortFolioData/main/ProofAI/ipfs.svg", 
             "https://raw.githubusercontent.com/MuhammadAbdullah950/PortFolioData/main/ProofAI/Go.svg", 
-            "https://raw.githubusercontent.com/MuhammadAbdullah950/PortFolioData/main/ProofAI/react-icon.svg"
         ],
         techIconAlt: ["IPFS", "Go", "React"],
         techName: ["IPFS", "Go", "React", "Decentralized"],
