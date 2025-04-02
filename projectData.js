@@ -24,7 +24,7 @@ const projectsData = [
     }
 ];
 
-const projectCategories = [
+const ProjectCategory = [
     { value: "all", label: "All Projects" },
     { value: "desktop", label: "dApps" },
     { value: "video", label: "AI Video Processing" }
