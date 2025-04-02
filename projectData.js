@@ -4,6 +4,7 @@ const projectsData = [
         imgAlt: "ProofAI Project",
         videoSrc: "",
         isVideo: false,
+        isVimeo: false,
         githubLink: "https://github.com/MuhammadAbdullah950/ProofAI",
         hostUrl: "https://github.com/MuhammadAbdullah950/ProofAI/releases/tag/v1.0.0-beta",
         title: "ProofAI - Revolutionizing AI Training with Proof of Work and Zero-Layer Blockchain Integration",
@@ -17,11 +18,12 @@ const projectsData = [
         techName: ["IPFS", "Go", "React", "Decentralized"],
         category: "desktop",
     },
-     {
+    {
         imgSrc: "",
-        imgAlt: "ProofAI Project",
+        imgAlt: "ProofAI Video Demo",
         videoSrc: "https://vimeo.com/1071829584?share=copy",
         isVideo: true,
+        isVimeo: true,
         githubLink: "",
         hostUrl: "",
         title: "ProofAI - Revolutionizing AI Training with Proof of Work and Zero-Layer Blockchain Integration",
