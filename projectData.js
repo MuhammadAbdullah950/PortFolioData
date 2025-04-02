@@ -16,19 +16,24 @@ const projectsData = [
         category: "desktop",
     },
     {
-        title: "AI Video Processor",
-        description: "A tool for AI-powered video editing and enhancements.",
-        videoSrc: "https://drive.google.com/file/d/1ogtRepUyOsAZle2866aeKd0yCc-C_eGq/preview?pli=1",  // Replace YOUR_VIDEO_ID
-        
-        techName: ["AI", "OpenCV", "Machine Learning"],
-        category: "video",
+        title: "ArbiFlash Bot - DeFi Arbitrage Tool for Cross-Exchange Flash Loan Trading",
+        description: "ArbiFlash Bot automates cryptocurrency arbitrage trading using flash loans. Monitor price differences across multiple DEXs, execute profitable trades automatically, and analyze performance with real-time metrics - all in one intuitive dashboard.",
+        videoSrc: "https://drive.google.com/file/d/1ogtRepUyOsAZle2866aeKd0yCc-C_eGq/preview?pli=1",
+        techName: ["Smart Contracts", "React", "Decentralized Finance"],
+        category: "dApps",
+    },
+    {
+        title: "Vegan Rob's DAO: Decentralized Governance Platform",
+        description: "Vegan Rob's DAO enables token holders to govern via a blockchain platform, offering election creation, voting, and membership tracking with transparency.",     
+        videoSrc: "https://drive.google.com/file/d/1KxKpQvCNre8-EiCPp0qZ1ARf7IgM3RjT/preview?pli=1",
+        techName: ["Ethereum Smart Contract", "React", "Decentralized Governance"],
+        category: "dApps",
     }
 ];
 
 const ProjectCategory = [
     { value: "all", label: "All Projects" },
-    { value: "desktop", label: "dApps" },
-    { value: "video", label: "AI Video Processing" }
+    { value: "desktop", label: "dApps" }
 ];
 
 export { projectsData, ProjectCategory };
